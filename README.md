@@ -35,7 +35,7 @@ Feel free to clone or fork this repository to:
 
 To clone the repository:
 ```bash
-$ git clone https://github.com/your-username/rust-basics.git
+$ git clone https://github.com/pnrt/rust-basics.git
 ```
 
 ---
